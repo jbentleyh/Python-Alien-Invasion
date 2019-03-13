@@ -7,4 +7,7 @@ In this project, I implemented OOP design and used the Pygame library to draw th
 
 
 
+
+
+
 ![alien](https://user-images.githubusercontent.com/45768739/54247097-a95b5980-4505-11e9-8428-ad71f3b407b8.gif)
