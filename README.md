@@ -1,4 +1,4 @@
-# Python-Alien-Invasion
+# Python Alien Invasion
 Made this project while studying the book "Python: A Crash Course" to help improve my python skills.
 
 The goal of the game is the fight off as many alien fleets as possible! As each fleet is destroyed, a new fleet will respawn, but this time, they will be much faster. You have 3 lives; a life can be taken if an alien reaches the bottom of the screen or if an alien collides with your ship. See how far you can get, and set a high score!
